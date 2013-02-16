@@ -21,7 +21,8 @@ This code was written by a teenager. I don't even know if I'd fully grasped the 
 2. My variable method naming is inconsistent and gives no clue as to what they're used for.
 3. My methods are badly decomposed i.e. they're not decomposed into sensibly concise methods.
 4. The class structures aren't single purpose and don't have a clear interface e.g. they allow public access to what should be internal data structures. Such adhere to SOLID mnemonic.
-5. The user interface sucks royally.
+5. Constant numbers used throughout the code instead of being defined once in a config settings class (or equivalent).
+6. The user interface sucks royally.
 
 <br />
 
