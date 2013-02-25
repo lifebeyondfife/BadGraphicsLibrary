@@ -31,3 +31,10 @@ I'm putting this on GitHub because...?
 
 <br />
 In spite of all of its faults, it's a working bit of code that does something quite cool. It's also nice to remember the little bits and pieces I did as a student. But most importantly it's good to see how far I've come as a programmer - I may not be the best coder ever but I can solve problems and do so in a way that others can understand. It's nice to see the progress.
+
+<br />
+
+For those still not convinced
+-----------------------------
+
+Tidying up the code would have required practically a rewrite, however, I dropped the custom mail sort for a built-in quick sort; added some double-buffering; put in a mouse click n' drag listener and mouse wheel listener for performing the rotation and zooming; and finally switched the two state buttons for one radio button. Have a <a href="http://lifebeyondfife.com/applets/PolarBear/">Polar Bear</a>. Much nicer :)
