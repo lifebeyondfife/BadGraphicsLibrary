@@ -37,4 +37,5 @@ In spite of all of its faults, it's a working bit of code that does something qu
 For those still not convinced
 -----------------------------
 
+<br />
 Tidying up the code would have required practically a rewrite, however, I dropped the custom mail sort for a built-in quick sort; added some double-buffering; put in a mouse click n' drag listener and mouse wheel listener for performing the rotation and zooming; and finally switched the two state buttons for one radio button. Have a <a href="http://lifebeyondfife.com/applets/PolarBear/">Polar Bear</a>. Much nicer :)
